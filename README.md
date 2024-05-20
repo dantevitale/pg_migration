@@ -17,5 +17,7 @@ More exstensive desription on:
 
 https://medium.com/@dante.vitale/postgresql-database-in-cloud-migration-part-1-2-c69381c8a949
 
+https://medium.com/@dante.vitale/postgresql-database-in-cloud-migration-part-2-2-1b0ac92a3e13
+
 
 
